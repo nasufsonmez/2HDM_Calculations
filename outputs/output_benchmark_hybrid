@@ -1,0 +1,739 @@
+****************************************************
+*                                                  *
+*    2HDMC - Two-Higgs-Doublet Model Calculator    *
+*             http://2hdmc.hepforge.org            *
+*                  Version 1.7.0                   *
+*             Compiled on Jun 19 2017              *
+*                                                  *
+****************************************************
+================================================================
+Benchmark Point : 1
+Yukawa Coupling : 1
+
+2HDM parameters in physical mass basis:
+      m_h:    125.00000
+      m_H:    150.00000
+      m_A:    379.05196
+     m_H+:    379.05196
+ sin(b-a):      0.99499
+ lambda_6:      0.00000
+ lambda_7:     -0.00000
+    m12^2:   9154.91436
+tan(beta):      2.00000
+
+2HDM parameters in generic basis:
+ lambda_1:      0.27391
+ lambda_2:      0.24570
+ lambda_3:      4.26827
+ lambda_4:     -1.99248
+ lambda_5:     -1.99248
+ lambda_6:      0.00000
+ lambda_7:     -0.00000
+    m12^2:   9154.91436
+tan(beta):      2.00000
+
+ Constraints :
+ Potential stability : OK
+
+-----> unitarity   	7.32362
+ Tree-level unitarity : OK
+
+-----> perturbativity  	4.2209
+ Perturbativity : OK
+
+
+-----> unitarity   	7.32362
+-----> perturbativity  	4.2209
+0 ******* ok ******* 
+ Total width for h :  4.639e-03 GeV
+ Total width for H :  7.789e-04 GeV
+ Total width for A :  1.110e+01 GeV
+ Total width for H+:  1.193e+01 GeV
+================================================================
+Benchmark Point : 2
+Yukawa Coupling : 1
+
+2HDM parameters in physical mass basis:
+      m_h:    125.00000
+      m_H:    200.00000
+      m_A:    401.25477
+     m_H+:    401.25477
+ sin(b-a):      0.99499
+ lambda_6:     -0.00000
+ lambda_7:      0.00000
+    m12^2:   7742.59943
+tan(beta):      5.00000
+
+2HDM parameters in generic basis:
+ lambda_1:      0.45344
+ lambda_2:      0.24542
+ lambda_3:      4.44544
+ lambda_4:     -1.99167
+ lambda_5:     -1.99167
+ lambda_6:     -0.00000
+ lambda_7:      0.00000
+    m12^2:   7742.59943
+tan(beta):      5.00000
+
+ Constraints :
+ Potential stability : OK
+
+-----> unitarity   	7.95457
+ Tree-level unitarity : OK
+
+-----> perturbativity  	4.39728
+ Perturbativity : OK
+
+
+-----> unitarity   	7.95457
+-----> perturbativity  	4.39728
+1 ******* ok ******* 
+ Total width for h :  4.430e-03 GeV
+ Total width for H :  1.363e-02 GeV
+ Total width for A :  6.829e+00 GeV
+ Total width for H+:  7.417e+00 GeV
+================================================================
+Benchmark Point : 3
+Yukawa Coupling : 2
+
+2HDM parameters in physical mass basis:
+      m_h:    125.00000
+      m_H:    300.00000
+      m_A:    459.61038
+     m_H+:    459.61038
+ sin(b-a):      0.99995
+ lambda_6:      0.00000
+ lambda_7:     -0.00000
+    m12^2:   8917.59257
+tan(beta):     10.00000
+
+2HDM parameters in generic basis:
+ lambda_1:      0.37929
+ lambda_2:      0.25539
+ lambda_3:      4.37807
+ lambda_4:     -1.99876
+ lambda_5:     -1.99876
+ lambda_6:      0.00000
+ lambda_7:     -0.00000
+    m12^2:   8917.59257
+tan(beta):     10.00000
+
+ Constraints :
+ Potential stability : OK
+
+-----> unitarity   	7.71195
+ Tree-level unitarity : OK
+
+-----> perturbativity  	4.37643
+ Perturbativity : OK
+
+
+-----> unitarity   	7.71195
+-----> perturbativity  	4.37643
+2 ******* ok ******* 
+ Total width for h :  3.787e-03 GeV
+ Total width for H :  6.076e-01 GeV
+ Total width for A :  4.329e+00 GeV
+ Total width for H+:  4.705e+00 GeV
+================================================================
+Benchmark Point : 4
+Yukawa Coupling : 2
+
+2HDM parameters in physical mass basis:
+      m_h:    125.00000
+      m_H:    500.00000
+      m_A:    609.28294
+     m_H+:    609.28294
+ sin(b-a):      0.99995
+ lambda_6:     -0.00000
+ lambda_7:     -0.00000
+    m12^2:   8325.90801
+tan(beta):     30.00000
+
+2HDM parameters in generic basis:
+ lambda_1:      1.41657
+ lambda_2:      0.25554
+ lambda_3:      5.41529
+ lambda_4:     -1.99871
+ lambda_5:     -1.99871
+ lambda_6:     -0.00000
+ lambda_7:     -0.00000
+    m12^2:   8325.90801
+tan(beta):     30.00000
+
+ Constraints :
+ Potential stability : OK
+
+-----> unitarity   	11.5101
+ Tree-level unitarity : OK
+
+-----> perturbativity  	5.4136
+ Perturbativity : OK
+
+
+-----> unitarity   	11.5101
+-----> perturbativity  	5.4136
+3 ******* ok ******* 
+ Total width for h :  2.857e-03 GeV
+ Total width for H :  8.391e+00 GeV
+ Total width for A :  1.037e+01 GeV
+ Total width for H+:  9.590e+00 GeV
+================================================================
+Benchmark Point : 5
+Yukawa Coupling : 1
+
+2HDM parameters in physical mass basis:
+      m_h:     65.00000
+      m_H:    125.00000
+      m_A:    554.38961
+     m_H+:    554.38961
+ sin(b-a):      0.00000
+ lambda_6:      0.00000
+ lambda_7:     -0.00000
+    m12^2:   1950.00000
+tan(beta):      1.50000
+
+2HDM parameters in generic basis:
+ lambda_1:      0.25773
+ lambda_2:      0.25773
+ lambda_3:     10.25773
+ lambda_4:     -5.00000
+ lambda_5:     -5.00000
+ lambda_6:      0.00000
+ lambda_7:     -0.00000
+    m12^2:   1950.00000
+tan(beta):      1.50000
+
+ Constraints :
+ Potential stability : OK
+
+-----> unitarity   	16.2887
+ Tree-level unitarity : OK
+
+-----> perturbativity  	10.2577
+ Perturbativity : OK
+
+
+-----> unitarity   	16.2887
+-----> perturbativity  	10.2577
+4 ******* ok ******* 
+ Total width for h :  8.079e-04 GeV
+ Total width for H :  4.338e-03 GeV
+ Total width for A :  6.091e+01 GeV
+ Total width for H+:  6.079e+01 GeV
+================================================================
+Benchmark Point : 6
+Yukawa Coupling : 1
+
+2HDM parameters in physical mass basis:
+      m_h:     80.00000
+      m_H:    125.00000
+      m_A:    557.92078
+     m_H+:    557.92078
+ sin(b-a):      0.43589
+ lambda_6:      0.00000
+ lambda_7:     -0.00000
+    m12^2:   5767.16355
+tan(beta):      1.50000
+
+2HDM parameters in generic basis:
+ lambda_1:      0.24673
+ lambda_2:      0.11739
+ lambda_3:     10.20693
+ lambda_4:     -4.92837
+ lambda_5:     -4.92837
+ lambda_6:      0.00000
+ lambda_7:     -0.00000
+    m12^2:   5767.16355
+tan(beta):      1.50000
+
+ Constraints :
+ Potential stability : OK
+
+-----> unitarity   	16.0329
+ Tree-level unitarity : OK
+
+-----> perturbativity  	8.26252
+ Perturbativity : OK
+
+
+-----> unitarity   	16.0329
+-----> perturbativity  	8.26252
+5 ******* ok ******* 
+ Total width for h :  2.354e-03 GeV
+ Total width for H :  2.036e-03 GeV
+ Total width for A :  5.999e+01 GeV
+ Total width for H+:  5.986e+01 GeV
+================================================================
+Benchmark Point : 7
+Yukawa Coupling : 2
+
+2HDM parameters in physical mass basis:
+      m_h:     65.00000
+      m_H:    125.00000
+      m_A:    554.38961
+     m_H+:    554.38961
+ sin(b-a):      0.00000
+ lambda_6:      0.00000
+ lambda_7:     -0.00000
+    m12^2:   1950.00000
+tan(beta):      1.50000
+
+2HDM parameters in generic basis:
+ lambda_1:      0.25773
+ lambda_2:      0.25773
+ lambda_3:     10.25773
+ lambda_4:     -5.00000
+ lambda_5:     -5.00000
+ lambda_6:      0.00000
+ lambda_7:     -0.00000
+    m12^2:   1950.00000
+tan(beta):      1.50000
+
+ Constraints :
+ Potential stability : OK
+
+-----> unitarity   	16.2887
+ Tree-level unitarity : OK
+
+-----> perturbativity  	10.2577
+ Perturbativity : OK
+
+
+-----> unitarity   	16.2887
+-----> perturbativity  	10.2577
+6 ******* ok ******* 
+ Total width for h :  3.847e-03 GeV
+ Total width for H :  4.338e-03 GeV
+ Total width for A :  6.093e+01 GeV
+ Total width for H+:  6.080e+01 GeV
+================================================================
+Benchmark Point : 8
+Yukawa Coupling : 1
+
+2HDM parameters in physical mass basis:
+      m_h:    125.00000
+      m_H:    250.00000
+      m_A:     43.30625
+     m_H+:    250.00000
+ sin(b-a):      1.00000
+ lambda_6:      0.00000
+ lambda_7:     -0.00000
+    m12^2:   8833.44836
+tan(beta):      2.00000
+
+2HDM parameters in generic basis:
+ lambda_1:      2.92440
+ lambda_2:      0.42440
+ lambda_3:      0.92440
+ lambda_4:     -1.66667
+ lambda_5:      0.33333
+ lambda_6:      0.00000
+ lambda_7:     -0.00000
+    m12^2:   8833.44836
+tan(beta):      2.00000
+
+ Constraints :
+ Potential stability : OK
+
+-----> unitarity   	8.77762
+ Tree-level unitarity : OK
+
+-----> perturbativity  	5.2732
+ Perturbativity : OK
+
+
+-----> unitarity   	8.77762
+-----> perturbativity  	5.2732
+7 ******* ok ******* 
+ Total width for h :  5.860e-01 GeV
+ Total width for H :  5.170e+00 GeV
+ Total width for A :  3.324e-04 GeV
+ Total width for H+:  4.382e+00 GeV
+================================================================
+Benchmark Point : 9
+Yukawa Coupling : 1
+
+2HDM parameters in physical mass basis:
+      m_h:    125.00000
+      m_H:    300.00000
+      m_A:    300.00000
+     m_H+:    171.39262
+ sin(b-a):      1.00000
+ lambda_6:      0.00000
+ lambda_7:     -0.00000
+    m12^2:  19833.44836
+tan(beta):      2.00000
+
+2HDM parameters in generic basis:
+ lambda_1:      2.92440
+ lambda_2:      0.42440
+ lambda_3:     -1.07560
+ lambda_4:      1.33333
+ lambda_5:     -0.66667
+ lambda_6:      0.00000
+ lambda_7:     -0.00000
+    m12^2:  19833.44836
+tan(beta):      2.00000
+
+ Constraints :
+ Potential stability : OK
+
+-----> unitarity   	8.86135
+ Tree-level unitarity : OK
+
+-----> perturbativity  	5.2732
+ Perturbativity : OK
+
+
+-----> unitarity   	8.86135
+-----> perturbativity  	5.2732
+8 ******* ok ******* 
+ Total width for h :  4.340e-03 GeV
+ Total width for H :  2.469e+00 GeV
+ Total width for A :  2.472e+00 GeV
+ Total width for H+:  1.965e-03 GeV
+================================================================
+Benchmark Point : 10
+Yukawa Coupling : 1
+
+2HDM parameters in physical mass basis:
+      m_h:    125.00000
+      m_H:    400.00000
+      m_A:    315.23869
+     m_H+:    315.23869
+ sin(b-a):      1.00000
+ lambda_6:      0.00000
+ lambda_7:     -0.00000
+    m12^2:  47833.44836
+tan(beta):      2.00000
+
+2HDM parameters in generic basis:
+ lambda_1:      2.92440
+ lambda_2:      0.42440
+ lambda_3:     -1.07560
+ lambda_4:      0.33333
+ lambda_5:      0.33333
+ lambda_6:      0.00000
+ lambda_7:     -0.00000
+    m12^2:  47833.44836
+tan(beta):      2.00000
+
+ Constraints :
+ Potential stability : OK
+
+-----> unitarity   	9.19059
+ Tree-level unitarity : OK
+
+-----> perturbativity  	5.2732
+ Perturbativity : OK
+
+
+-----> unitarity   	9.19059
+-----> perturbativity  	5.2732
+9 ******* ok ******* 
+ Total width for h :  4.339e-03 GeV
+ Total width for H :  1.153e+00 GeV
+ Total width for A :  1.050e-02 GeV
+ Total width for H+:  2.330e+00 GeV
+================================================================
+Benchmark Point : 11
+Yukawa Coupling : 2
+
+2HDM parameters in physical mass basis:
+      m_h:    125.00000
+      m_H:    400.00000
+      m_A:    315.23869
+     m_H+:    400.00000
+ sin(b-a):      1.00000
+ lambda_6:      0.00000
+ lambda_7:     -0.00000
+    m12^2:  47833.44836
+tan(beta):      2.00000
+
+2HDM parameters in generic basis:
+ lambda_1:      2.92440
+ lambda_2:      0.42440
+ lambda_3:      0.92440
+ lambda_4:     -1.66667
+ lambda_5:      0.33333
+ lambda_6:      0.00000
+ lambda_7:     -0.00000
+    m12^2:  47833.44836
+tan(beta):      2.00000
+
+ Constraints :
+ Potential stability : OK
+
+-----> unitarity   	8.77762
+ Tree-level unitarity : OK
+
+-----> perturbativity  	5.2732
+ Perturbativity : OK
+
+
+-----> unitarity   	8.77762
+-----> perturbativity  	5.2732
+10 ******* ok ******* 
+ Total width for h :  4.339e-03 GeV
+ Total width for H :  1.087e+00 GeV
+ Total width for A :  3.374e-02 GeV
+ Total width for H+:  3.804e+00 GeV
+================================================================
+Benchmark Point : 12
+Yukawa Coupling : 2
+
+2HDM parameters in physical mass basis:
+      m_h:    125.00000
+      m_H:    500.00000
+      m_A:    500.00000
+     m_H+:    435.17288
+ sin(b-a):      1.00000
+ lambda_6:      0.00000
+ lambda_7:     -0.00000
+    m12^2:  83833.44836
+tan(beta):      2.00000
+
+2HDM parameters in generic basis:
+ lambda_1:      2.92440
+ lambda_2:      0.42440
+ lambda_3:     -1.07560
+ lambda_4:      1.33333
+ lambda_5:     -0.66667
+ lambda_6:      0.00000
+ lambda_7:     -0.00000
+    m12^2:  83833.44836
+tan(beta):      2.00000
+
+ Constraints :
+ Potential stability : OK
+
+-----> unitarity   	8.86135
+ Tree-level unitarity : OK
+
+-----> perturbativity  	5.2732
+ Perturbativity : OK
+
+
+-----> unitarity   	8.86135
+-----> perturbativity  	5.2732
+11 ******* ok ******* 
+ Total width for h :  4.339e-03 GeV
+ Total width for H :  3.264e+00 GeV
+ Total width for A :  5.760e+00 GeV
+ Total width for H+:  4.299e+00 GeV
+================================================================
+Benchmark Point : 13
+Yukawa Coupling : 2
+
+2HDM parameters in physical mass basis:
+      m_h:    125.00000
+      m_H:    500.00000
+      m_A:    435.17288
+     m_H+:    435.17288
+ sin(b-a):      1.00000
+ lambda_6:      0.00000
+ lambda_7:     -0.00000
+    m12^2:  83833.44836
+tan(beta):      2.00000
+
+2HDM parameters in generic basis:
+ lambda_1:      2.92440
+ lambda_2:      0.42440
+ lambda_3:     -1.07560
+ lambda_4:      0.33333
+ lambda_5:      0.33333
+ lambda_6:      0.00000
+ lambda_7:     -0.00000
+    m12^2:  83833.44836
+tan(beta):      2.00000
+
+ Constraints :
+ Potential stability : OK
+
+-----> unitarity   	9.19059
+ Tree-level unitarity : OK
+
+-----> perturbativity  	5.2732
+ Perturbativity : OK
+
+
+-----> unitarity   	9.19059
+-----> perturbativity  	5.2732
+12 ******* ok ******* 
+ Total width for h :  4.339e-03 GeV
+ Total width for H :  3.264e+00 GeV
+ Total width for A :  4.577e+00 GeV
+ Total width for H+:  4.299e+00 GeV
+================================================================
+Benchmark Point : 14
+Yukawa Coupling : 1
+
+2HDM parameters in physical mass basis:
+      m_h:    125.00000
+      m_H:    200.00000
+      m_A:    401.55839
+     m_H+:    531.50567
+ sin(b-a):      1.00000
+ lambda_6:      0.00000
+ lambda_7:     -0.00000
+    m12^2:  16000.00000
+tan(beta):      2.00000
+
+2HDM parameters in generic basis:
+ lambda_1:      0.25773
+ lambda_2:      0.25773
+ lambda_3:      8.25773
+ lambda_4:     -6.00000
+ lambda_5:     -2.00000
+ lambda_6:      0.00000
+ lambda_7:     -0.00000
+    m12^2:  16000.00000
+tan(beta):      2.00000
+
+ Constraints :
+ Potential stability : OK
+
+-----> unitarity   	14.2577
+ Tree-level unitarity : OK
+
+-----> perturbativity  	8.25773
+ Perturbativity : OK
+
+
+-----> unitarity   	14.2577
+-----> perturbativity  	8.25773
+13 ******* ok ******* 
+ Total width for h :  4.338e-03 GeV
+ Total width for H :  1.452e-03 GeV
+ Total width for A :  9.985e+00 GeV
+ Total width for H+:  3.547e+01 GeV
+================================================================
+Benchmark Point : 15
+Yukawa Coupling : 1
+
+2HDM parameters in physical mass basis:
+      m_h:    125.00000
+      m_H:    225.00000
+      m_A:    482.18120
+     m_H+:    333.54095
+ sin(b-a):      1.00000
+ lambda_6:      0.00000
+ lambda_7:     -0.00000
+    m12^2:  20250.00000
+tan(beta):      2.00000
+
+2HDM parameters in generic basis:
+ lambda_1:      0.25773
+ lambda_2:      0.25773
+ lambda_3:      2.25773
+ lambda_4:      1.00000
+ lambda_5:     -3.00000
+ lambda_6:      0.00000
+ lambda_7:     -0.00000
+    m12^2:  20250.00000
+tan(beta):      2.00000
+
+ Constraints :
+ Potential stability : OK
+
+-----> unitarity   	13.2577
+ Tree-level unitarity : OK
+
+-----> perturbativity  	6.25773
+ Perturbativity : OK
+
+
+-----> unitarity   	13.2577
+-----> perturbativity  	6.25773
+14 ******* ok ******* 
+ Total width for h :  4.339e-03 GeV
+ Total width for H :  1.718e-03 GeV
+ Total width for A :  2.558e+01 GeV
+ Total width for H+:  3.230e+00 GeV
+================================================================
+Benchmark Point : 16
+Yukawa Coupling : 2
+
+2HDM parameters in physical mass basis:
+      m_h:    125.00000
+      m_H:    250.00000
+      m_A:    428.65970
+     m_H+:    552.26649
+ sin(b-a):      1.00000
+ lambda_6:      0.00000
+ lambda_7:     -0.00000
+    m12^2:  25000.00000
+tan(beta):      2.00000
+
+2HDM parameters in generic basis:
+ lambda_1:      0.25773
+ lambda_2:      0.25773
+ lambda_3:      8.25773
+ lambda_4:     -6.00000
+ lambda_5:     -2.00000
+ lambda_6:      0.00000
+ lambda_7:     -0.00000
+    m12^2:  25000.00000
+tan(beta):      2.00000
+
+ Constraints :
+ Potential stability : OK
+
+-----> unitarity   	14.2577
+ Tree-level unitarity : OK
+
+-----> perturbativity  	8.25773
+ Perturbativity : OK
+
+
+-----> unitarity   	14.2577
+-----> perturbativity  	8.25773
+15 ******* ok ******* 
+ Total width for h :  4.338e-03 GeV
+ Total width for H :  2.160e-02 GeV
+ Total width for A :  9.040e+00 GeV
+ Total width for H+:  3.198e+01 GeV
+================================================================
+Benchmark Point : 17
+Yukawa Coupling : 2
+
+2HDM parameters in physical mass basis:
+      m_h:    125.00000
+      m_H:    300.00000
+      m_A:    521.41510
+     m_H+:    388.10381
+ sin(b-a):      1.00000
+ lambda_6:      0.00000
+ lambda_7:     -0.00000
+    m12^2:  36000.00000
+tan(beta):      2.00000
+
+2HDM parameters in generic basis:
+ lambda_1:      0.25773
+ lambda_2:      0.25773
+ lambda_3:      2.25773
+ lambda_4:      1.00000
+ lambda_5:     -3.00000
+ lambda_6:      0.00000
+ lambda_7:     -0.00000
+    m12^2:  36000.00000
+tan(beta):      2.00000
+
+ Constraints :
+ Potential stability : OK
+
+-----> unitarity   	13.2577
+ Tree-level unitarity : OK
+
+-----> perturbativity  	6.25773
+ Perturbativity : OK
+
+
+-----> unitarity   	13.2577
+-----> perturbativity  	6.25773
+16 ******* ok ******* 
+ Total width for h :  4.339e-03 GeV
+ Total width for H :  2.584e-02 GeV
+ Total width for A :  2.059e+01 GeV
+ Total width for H+:  3.660e+00 GeV

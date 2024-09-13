@@ -1,0 +1,206 @@
+****************************************************
+*                                                  *
+*    2HDMC - Two-Higgs-Doublet Model Calculator    *
+*             http://2hdmc.hepforge.org            *
+*                  Version 1.7.0                   *
+*             Compiled on Jun 16 2017              *
+*                                                  *
+****************************************************
+================================================================
+Benchmark Point : 25
+Yukawa Coupling : 4
+
+2HDM parameters in physical mass basis:
+      m_h:    126.00000
+      m_H:    200.00000
+      m_A:     10.00000
+     m_H+:    190.00000
+ sin(b-a):      1.00000
+ lambda_6:      0.00000
+ lambda_7:      0.00000
+    m12^2:    798.03000
+tan(beta):     50.00000
+
+2HDM parameters in generic basis:
+ lambda_1:      3.66558
+ lambda_2:      0.26187
+ lambda_3:      0.13457
+ lambda_4:     -0.53085
+ lambda_5:      0.65679
+ lambda_6:      0.00000
+ lambda_7:      0.00000
+    m12^2:    798.03000
+tan(beta):     50.00000
+
+2HDM parameters in Higgs basis:
+ Lambda_1:      0.26187
+ Lambda_2:      3.66286
+ Lambda_3:      0.13594
+ Lambda_4:     -0.52949
+ Lambda_5:      0.65815
+ Lambda_6:     -0.00000
+ Lambda_7:     -0.06805
+     m_Hp:    190.00000
+
+2HDM parameters in Hybrid basis:
+      m_h:    126.00000
+      m_H:    200.00000
+ cos(b-a):      0.00000
+       Z4:     -0.52949
+       Z5:      0.65815
+       Z7:     -0.06805
+tan(beta):     50.00000
+
+ Constraints:
+ Potential stability: Not OK
+-----> unitarity  11.0035
+ Tree-level unitarity: OK
+-----> perturbativity  10.9886
+ Perturbativity: OK
+
+ Oblique S: -2.01603e-02
+ Oblique T: -2.50326e-02
+ Oblique U: -1.33019e-03
+ Oblique V: -2.35426e-03
+ Oblique W: -1.87667e-03
+ Oblique X: -1.66335e-04
+ Delta_rho: -1.95668e-04
+
+ Delta_amu:  2.57245e-09
+
+ Total width for h :  5.231e+00 GeV
+ Total width for H :  2.340e+00 GeV
+ Total width for A :  4.860e-02 GeV
+ Total width for H+:  2.216e+00 GeV
+================================================================
+Benchmark Point : 26
+Yukawa Coupling : 4
+
+2HDM parameters in physical mass basis:
+      m_h:    126.00000
+      m_H:    200.00000
+      m_A:     30.00000
+     m_H+:    190.00000
+ sin(b-a):      0.00000
+ lambda_6:      0.00000
+ lambda_7:      0.00000
+    m12^2:    798.03000
+tan(beta):     80.00000
+
+2HDM parameters in generic basis:
+ lambda_1:  -5064.09875
+ lambda_2:      0.65967
+ lambda_3:      0.53562
+ lambda_4:     -0.12285
+ lambda_5:      1.03840
+ lambda_6:      0.00000
+ lambda_7:      0.00000
+    m12^2:    798.03000
+tan(beta):     80.00000
+
+2HDM parameters in Higgs basis:
+ Lambda_1:      0.65980
+ Lambda_2:  -5062.51614
+ Lambda_3:     -0.25575
+ Lambda_4:     -0.91422
+ Lambda_5:      0.24703
+ Lambda_6:     -0.00000
+ Lambda_7:     63.29959
+     m_Hp:    190.00000
+
+2HDM parameters in Hybrid basis:
+      m_h:    126.00000
+      m_H:    200.00000
+ cos(b-a):      1.00000
+       Z4:     -0.91422
+       Z5:      0.24703
+       Z7:     63.29959
+tan(beta):     80.00000
+
+ Constraints:
+ Potential stability: Not OK
+-----> unitarity  15192.3
+ Tree-level unitarity: Not OK
+-----> perturbativity  15187.5
+ Perturbativity: Not OK
+
+ Oblique S: -7.31145e-03
+ Oblique T:  1.24621e-01
+ Oblique U:  1.10850e-02
+ Oblique V: -7.59166e-04
+ Oblique W:  7.67948e-04
+ Oblique X: -1.66335e-04
+ Delta_rho:  9.74100e-04
+
+ Delta_amu:  2.63492e-09
+
+ Total width for h :  1.686e+04 GeV
+ Total width for H :  7.139e+00 GeV
+ Total width for A :  3.964e-01 GeV
+ Total width for H+:  3.618e+00 GeV
+================================================================
+Benchmark Point : 27
+Yukawa Coupling : 4
+
+2HDM parameters in physical mass basis:
+      m_h:    126.00000
+      m_H:    200.00000
+      m_A:     40.00000
+     m_H+:    190.00000
+ sin(b-a):      0.00000
+ lambda_6:      0.00000
+ lambda_7:      0.00000
+    m12^2:    798.03000
+tan(beta):    100.00000
+
+2HDM parameters in generic basis:
+ lambda_1: -10545.39137
+ lambda_2:      0.65969
+ lambda_3:      0.27238
+ lambda_4:      0.15193
+ lambda_5:      1.29009
+ lambda_6:      0.00000
+ lambda_7:      0.00000
+    m12^2:    798.03000
+tan(beta):    100.00000
+
+2HDM parameters in Higgs basis:
+ Lambda_1:      0.65980
+ Lambda_2: -10543.28227
+ Lambda_3:     -0.78222
+ Lambda_4:     -0.90267
+ Lambda_5:      0.23548
+ Lambda_6:      0.00000
+ Lambda_7:    105.44997
+     m_Hp:    190.00000
+
+2HDM parameters in Hybrid basis:
+      m_h:    126.00000
+      m_H:    200.00000
+ cos(b-a):      1.00000
+       Z4:     -0.90267
+       Z5:      0.23548
+       Z7:    105.44997
+tan(beta):    100.00000
+
+ Constraints:
+ Potential stability: Not OK
+-----> unitarity  31636.2
+ Tree-level unitarity: Not OK
+-----> perturbativity  31629.8
+ Perturbativity: Not OK
+
+ Oblique S: -5.48075e-03
+ Oblique T:  1.18406e-01
+ Oblique U:  1.01007e-02
+ Oblique V: -2.87417e-04
+ Oblique W:  8.23654e-04
+ Oblique X: -1.66335e-04
+ Delta_rho:  9.25523e-04
+
+ Delta_amu:  2.77864e-09
+
+ Total width for h :  4.112e+04 GeV
+ Total width for H :  1.155e+01 GeV
+ Total width for A :  8.285e-01 GeV
+ Total width for H+:  4.924e+00 GeV
