@@ -258,6 +258,7 @@ int main(int argc, char* argv[]) {
 
         cout << "Benchmark Point for HYBRID base: " << i + 28 << endl;
         double yukawa = yukawa_typeHYBRID[i];
+   
         bool pset = model.set_param_hybrid( mh_HYBRID[i], mH_HYBRID[i], cba[i], Z_4_HYBRID[i], Z_5_HYBRID[i], Z_7_HYBRID[i], tb_HYBRID[i]);
 
         // Set Yukawa couplings to type II
@@ -287,7 +288,7 @@ int main(int argc, char* argv[]) {
         printf(" Potential stability : %s\n",  (constr.check_stability()      ? "OK\n" : "Not OK\n"));
         printf(" Tree-level unitarity : %s\n", (constr.check_unitarity()      ? "OK\n" : "Not OK\n"));
         printf(" Perturbativity : %s\n",       (constr.check_perturbativity() ? "OK\n" : "Not OK\n"));
-        printf("     Mass constraints: %s\n", (constr.check_masses() ? "OK" : "Not OK"));
+        printf("     Mass constraints: %s\n",  (constr.check_masses() ? "OK" : "Not OK"));
         printf("\n");
         
         if ( constr.check_stability() && constr.check_unitarity() && constr.check_perturbativity() )

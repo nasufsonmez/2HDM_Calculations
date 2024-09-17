@@ -2,16 +2,21 @@
 
 # Choose your C++ compiler here (in general g++ on Linux systems):
 CC = g++
-LDFLAGS=-lgsl -lgslcblas
 
 #Optimisation level, eg: -O3
 OPT=-O3
 #OR debug level: -g(n=1,2,3)
-DEBUG= 
+DEBUG=
 
-VPATH=src 
 
-CFLAGS= -Wall $(DEBUG) $(OPT)
+GSL_path=/opt/homebrew/Cellar/gsl/2.8
+
+
+
+
+
+CFLAGS=-I$(GSL_path)/include -Wall $(DEBUG) $(OPT) -Warray-parameter -Wunused-variable
+LDFLAGS=-L$(GSL_path)/lib
 
 OBJDIR=lib
 LIBDIR=$(OBJDIR)
@@ -29,6 +34,8 @@ PROG=CalcPhys CalcGen CalcHiggs CalcHybrid CalcHMSSM CalcMSSM CalcInert CalcLH D
 #CFLAGS+=-DHiggsBounds
 #LDFLAGS+=-L$(LIBDIR) -lHS -lHB -lgfortran
 #SOURCES+=HBHS.cpp
+
+VPATH=src
 
 .PHONY: lib clean distclean
 

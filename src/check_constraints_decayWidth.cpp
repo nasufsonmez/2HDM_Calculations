@@ -107,7 +107,7 @@ int main(int argc, char* argv[]) {
         	//else cout << "0   ";
     
         	// Prepare to calculate decay widths
-        	// DecayTable table(model);
+            DecayTable table(model);
 
         	// Print total widths of Higgs bosons
         	// table.print_width(1);
